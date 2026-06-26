@@ -70,7 +70,7 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Moatasem-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Moatasem-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
     </td>
     <td width="50%" align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatasem-Official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />

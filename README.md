@@ -20,7 +20,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 Who Am I?</h3>
-      <p>I'm a passionate <b>Software Engineer</b> specializing in crafting top-tier mobile applications. I believe in writing clean, maintainable, and robust code.</p>
+      <p>I'm a passionate <b>Software Engineer</b> with over <b>1.5 years of experience</b> (since Feb 2025) in crafting top-tier mobile applications. I believe in writing clean, maintainable, and robust code to bring ideas to life.</p>
       <ul>
         <li>📱 <b>Core Stack:</b> Flutter, Dart</li>
         <li>🏛️ <b>Architecture:</b> Clean Architecture, MVC, MVVM</li>
@@ -34,7 +34,7 @@
       <p align="center">
         <a href="https://www.linkedin.com/in/eng-moatasem-nagy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <br><br>
-        <a href="mailto:moatasemnagy92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="mailto:moatasemnagy3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
       <br>
       <div align="center">

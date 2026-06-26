@@ -57,10 +57,31 @@
 
 ---
 
-### 🏆 Professional Analytics (Private & Public)
+### 🏆 GitHub Analytics & Dynamics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Moatasem-Official/Moatasem-Official/main/github-metrics.svg" alt="Metrics Dashboard" width="100%" />
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Moatasem-Official&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+<br>
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Moatasem-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moatasem-Official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moatasem-Official&bg_color=0D1117&color=2196F3&line=2196F3&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---

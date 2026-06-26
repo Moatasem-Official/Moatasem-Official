@@ -22,6 +22,7 @@ jobs:
           user: Moatasem-Official
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Africa/Cairo
           config_theme: tokyonight
           

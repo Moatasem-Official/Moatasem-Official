@@ -25,6 +25,7 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Africa/Cairo
           config_theme: tokyonight
+          config_font: "Ubuntu, 'Segoe UI', sans-serif"
           
           # Trophies Plugin
           plugin_trophy: yes
